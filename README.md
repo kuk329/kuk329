@@ -1,4 +1,4 @@
-### 안녕하세요 공부하는 개발자 김은경입니다. 👋
+### 안녕하세요. 👋
 
 <!--
 **kuk329/kuk329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=shinplest&show_icons=true&hide_border=true)](https://github.com/kuk329)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinplest&layout=compact)](https://github.com/kuk329)
+[![github stats](https://github-readme-stats.vercel.app/api?username=kuk329&show_icons=true&hide_border=true)](https://github.com/kuk329)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuk329&layout=compact)](https://github.com/kuk329)
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
